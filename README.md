@@ -1,6 +1,6 @@
 # Search Book with GoodReads API
 
-> App that finds song lyrics using React and the Musixmatch API.
+> App that finds Books using React and the GoodReads API.
 
 ### GoodReads API
 Get your API key and add to the .ENV file
